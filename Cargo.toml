@@ -1,0 +1,25 @@
+[package]
+name = "render"
+version = "0.1.0"
+authors = ["= <=>"]
+edition = "2018"
+
+[dependencies]
+
+[dependencies.winit]
+version = "0.19.1"
+
+[dependencies.vulkano]
+version = "0.12"
+
+[dependencies.vulkano-shaders]
+version = "0.12"
+
+[dependencies.vulkano-win]
+version = "0.12"
+
+[dependencies.cgmath]
+version = "0.17"
+
+[dependencies.fbxcel]
+version = "*"
